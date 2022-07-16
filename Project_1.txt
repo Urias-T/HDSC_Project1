@@ -1,0 +1,1 @@
+This file is part of my submission for the "Version control with Git" course by Hamoye.
